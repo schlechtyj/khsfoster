@@ -1,0 +1,66 @@
+
+
+
+h1 {
+    font-size: 50px;
+    text-align: right;
+    padding: 35px;
+}
+
+header {
+    text-align: right;
+    color: #E47A1E;
+    max-width: 100%;
+    min-width: 450px;
+    background-image: url("img/headerBackground.png");
+    width: 960px;
+    height: 120px;
+    margin: auto; 
+}
+
+.mainContainer {
+    width: 960px;
+    max-width: 100%;
+    height: 600px;
+    background-color: blueviolet;
+    margin:auto;
+    overflow: : hidden;
+}
+
+.videoWindow {
+    background-color: aquamarine;
+    width: 45%;
+    max-width: 45%;
+    height: 400px;
+    padding: 5px;
+    border: 5px solid #7E6952;
+    margin: 10px;
+    float:left;
+    position:relative;
+}
+
+.contentBlockRight {
+    background-color: aquamarine;
+    width: 45%;
+    max-width: 45%;
+    height: 400px;
+    padding: 5px;
+    border: 5px solid #7E6952;
+    margin: 10px;
+    float: right;
+    position:relative;
+   
+}
+
+body {
+    background-color: #A99D8B;
+}
+
+video {
+    border-color: darkseagreen
+width: = 100%;
+height: auto}
+
+.menu {
+}
+
